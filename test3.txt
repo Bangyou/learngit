@@ -1,6 +1,0 @@
-The insert line on the current line.
-This is the first dab files
-The insert line under the current line.
-Gljldj;lakdalkj   ljdl
-This is the second line of files.
-This is the first file created by cat 
